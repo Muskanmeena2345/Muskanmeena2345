@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Data structures and Algorithms**
 
-- 👯 I’m looking to collaborate on [Jobreferral](https://github.com/Muskanmeena2345/Jobreferral)
-
 - 👨‍💻 All of my projects are available at [https://github.com/Muskanmeena2345](https://github.com/Muskanmeena2345)
 
 - 📫 How to reach me **Muskanx498@gmail.com**
