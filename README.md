@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muskan Meena</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-- 🌱 I’m currently learning **Data structures and Algorithms**
+- 🌱 I’m currently learning **Data structures and Algorithms** & **Portfolio**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Muskanmeena2345](https://github.com/Muskanmeena2345)
 
